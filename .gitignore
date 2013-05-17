@@ -13,3 +13,4 @@ out
 *.iml
 *.ipr
 *.iws
+web-app/WEB-INF/tld/*.tld
