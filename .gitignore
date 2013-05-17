@@ -1,0 +1,15 @@
+log
+db
+tmp
+web-app/plugins
+classes
+target
+tags
+.classpath
+.project
+.settings
+out
+.idea
+*.iml
+*.ipr
+*.iws
